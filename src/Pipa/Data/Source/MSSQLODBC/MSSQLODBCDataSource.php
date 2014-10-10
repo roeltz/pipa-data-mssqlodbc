@@ -1,6 +1,6 @@
 <?php
 
-namespace Pipa\Data\Source\ODBC;
+namespace Pipa\Data\Source\MSSQLODBC;
 use DateTime;
 use DateTimeZone;
 use Pipa\Data\Aggregate;

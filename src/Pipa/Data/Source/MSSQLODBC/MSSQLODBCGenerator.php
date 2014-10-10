@@ -1,6 +1,6 @@
 <?php
 
-namespace Pipa\Data\Source\ODBC;
+namespace Pipa\Data\Source\MSSQLODBC;
 use DateTime;
 use Pipa\Data\Collection;
 use Pipa\Data\Field;
